@@ -2,5 +2,6 @@
 templateKey: test-page
 title: Test page (renamed)
 ---
-### This is a test
-Test
+### Test 2.0
+
+Testing
